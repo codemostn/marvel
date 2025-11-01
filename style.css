@@ -46,6 +46,7 @@ body{
 .list .item:hover .content{
     opacity: 1;
     transform: translateY(0);
+    
 }
 .list:hover .item:not(:hover){
     filter: blur(8px);
